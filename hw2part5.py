@@ -11,4 +11,4 @@ num1 = getNum()
 num2 = getNum()
 
 if(num1 > num2):
-    print("num 1 is bigger than num 2")
+    print("Number 1 is bigger than Number 2.")
