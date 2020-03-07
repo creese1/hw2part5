@@ -14,3 +14,5 @@ if(num1 > num2):
     print("num 1 is bigger than num 2")
 elif(num2 > num1):
     print("num 2 is bigger than num 1")
+elif (num1 == num2):
+    print("num 1 is equal to num 2")
